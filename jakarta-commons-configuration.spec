@@ -165,6 +165,7 @@ commons-dbcp \
 commons-digester \
 commons-jxpath \
 commons-lang \
+commons-logging \
 commons-pool \
 hsqldb \
 ):target/classes:target/test-classes:target/conf
