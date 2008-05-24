@@ -54,8 +54,6 @@ Source4:        %{base_name}-%{version}-jpp-depmap.xml
 Patch0:         disable_test.patch
 
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
-Distribution:   JPackage
-Vendor:         JPackage Project
 
 %if ! %{gcj_support}
 BuildArch:      noarch
