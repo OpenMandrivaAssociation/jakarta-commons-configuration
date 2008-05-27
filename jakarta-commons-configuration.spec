@@ -39,7 +39,7 @@
 
 Name:           jakarta-commons-configuration
 Version:        1.5
-Release:        %mkrel 0.0.1
+Release:        %mkrel 0.0.2
 Epoch:          0
 Summary:        Commons Configuration Package
 
@@ -105,6 +105,7 @@ Configuration is a project to provide a generic Configuration
 interface and allow the source of the values to vary. It 
 provides easy typed access to single, as well as lists of 
 configuration values based on a 'key'. 
+
 Right now you can load properties from a simple properties 
 file, a properties file in a jar, an XML file, JNDI settings, 
 as well as use a mix different sources using a 
