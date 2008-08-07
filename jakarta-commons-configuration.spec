@@ -39,7 +39,7 @@
 
 Name:           jakarta-commons-configuration
 Version:        1.5
-Release:        %mkrel 0.0.2
+Release:        %mkrel 3.0.2
 Epoch:          0
 Summary:        Commons Configuration Package
 
