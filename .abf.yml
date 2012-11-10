@@ -1,0 +1,6 @@
+sources:
+  "commons-configuration-1.5-jpp-depmap.xml:"	688949a361e55ba13627dc27fa1037834c3ae568
+  "commons-configuration-1.5-src.tar.gz:"	9f108ea5fb05ec4129b589f187c017b4cc781fc9
+  "pom-maven2jpp-depcat.xsl:"	5861cae5f65e559ece90a7342d182f5a534b65de
+  "pom-maven2jpp-mapdeps.xsl:"	81e46abb70b7ed6c5afe8311c655edea70aa8aa8
+  "pom-maven2jpp-newdepmap.xsl:"	834413ffc7f650705ce65ca2c89100153142cd92

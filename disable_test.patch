@@ -1,0 +1,11 @@
+--- build.xml.old	2008-05-24 11:53:54.000000000 +0300
++++ build.xml	2008-05-24 11:50:21.000000000 +0300
+@@ -97,7 +97,7 @@
+     </copy>
+   </target>
+ 
+-  <target name="jar" description="o Create the jar" depends="compile,test">
++  <target name="jar" description="o Create the jar" depends="compile">
+     <mkdir dir="${classesdir}/META-INF"/>
+     <copy file="LICENSE.txt" todir="${metadir}"/>
+     <copy file="NOTICE.txt" todir="${metadir}"/>
