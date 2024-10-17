@@ -45,7 +45,7 @@ Summary:        Commons Configuration Package
 
 Group:          Development/Java
 License:        Apache Software License 2.0
-URL:            http://commons.apache.org/configuration/
+URL:            https://commons.apache.org/configuration/
 Source0:        http://www.apache.org/dist/commons/configuration/source/%{base_name}-%{version}-src.tar.gz
 Source1:        pom-maven2jpp-depcat.xsl
 Source2:        pom-maven2jpp-newdepmap.xsl
